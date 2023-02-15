@@ -1,4 +1,4 @@
-# Rails 7 with Devise and Bootstrap 5 poilerplate template
+# Rails 7 with Devise and Bootstrap 5 boilerplate template
 
 *Disclaimer*: This template is only meant for my personal learning projects. Do not use this template for a Production app!\
 
